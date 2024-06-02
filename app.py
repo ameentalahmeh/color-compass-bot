@@ -100,7 +100,7 @@ def main():
 
     # --- Header ---
     st.markdown(
-        """<h1 style="text-align: center; color: #6ca395; margin-top: -35px;">🤖 <i>Color Compass</i> 💬</h1>""",
+        """<h1 style="text-align: center; color: #6ca395;">🤖 <i>Color Compass</i> 💬</h1>""",
         unsafe_allow_html=True
     )
 
