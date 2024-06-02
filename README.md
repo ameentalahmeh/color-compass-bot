@@ -4,7 +4,7 @@ Enhance the visual experiences for colorblind people.
 
 ## Overview
 
-Color Compass Bot is a versatile chatbot designed to elevate visual experiences by offering guidance and information on color perception and accessibility.
+Color Compass Bot is a versatile chatbot designed to elevate visual experiences by offering guidance and information on color perception and accessibility.Integrated with ChatGpt 4o model.
 
 ### Get Your OpenAI API Key
 
