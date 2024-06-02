@@ -1,0 +1,40 @@
+.st-emotion-cache-1gulkj5 {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(240, 242, 246);
+    border-radius: 0.5rem;
+    color: rgb(49, 51, 63);
+    position: fixed;
+    top: 600px;
+    right: -110px;
+    transform: translateX(-50%);
+    z-index: 1;
+    width: 710px;
+}
+
+
+.st-emotion-cache-arzcut {
+    width: 710px;
+    padding: 1rem 0;
+    max-width: 46rem;
+    margin-bottom: 100px;
+}
+
+.st-emotion-cache-10trblm {
+    margin-left: 0 !important;
+}
+
+.st-emotion-cache-13ln4jf {
+    width: 100%;
+    padding: 1rem;
+    max-width: 46rem;
+}
+
+.st-emotion-cache-1n76uvr {
+    width: auto !important;
+}
+
+.stMarkdown {
+    width: auto !important;
+}
