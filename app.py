@@ -123,10 +123,10 @@ def main():
 
         # About
         st.markdown("## About")
-        st.markdown("This chatbot is designed to enhance visual experiences by providing assistance and information related to color perception and accessibility.")
+        st.markdown("Color Compass is a chatbot designed to assist individuals with color blindness by enhancing their perception of colors in both photos and text. Leveraging the advanced capabilities of the ChatGPT-4 model, Color Compass aims to make visual information more accessible and comprehensible.")
         st.markdown("### Features")
         st.markdown("- Ask questions related to color theory and perception.")
-        st.markdown("- Upload images for analysis and advice.")
+        st.markdown("- Upload images for analysis and advice with GPT-4.")
         st.markdown("- Receive recommendations for optimizing visuals for colorblind individuals.")
         st.markdown("### How it Works")
         st.markdown("Simply type your question or upload an image, and the chatbot will provide helpful insights and guidance.")
